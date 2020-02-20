@@ -6,7 +6,7 @@
         prueba alex clase 2""",
 
     'description': """
-        como funciona
+        como funciona alex
     """,
 
     'author': "alexanderTL",

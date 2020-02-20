@@ -6,7 +6,7 @@
         prueba alex clase 2""",
 
     'description': """
-        como funciona
+        como funciona alex
     """,
 
     'author': "alexanderTL",
@@ -31,5 +31,5 @@
     # only loaded in demonstration mode
     #'demo': [
     #   'demo/demo.xml',
-    #],
+    ],    "installable": True,
 }
